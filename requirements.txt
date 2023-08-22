@@ -1,4 +1,4 @@
 pandas==2.0.3
 numpy==1.25.2
 #-e . #it will trigger setup.py wheneveer the requirements.txt will be open
-#but one more problem is that if we specifically use setup.py then it will trigger -e . for that we need to do modification in setup.pp
+#but one more problem is that if we specifically use setup.py then it will trigger -e . for that we need to do modification in setu
